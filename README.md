@@ -281,7 +281,7 @@
   @media (min-width: 768px) and (max-width: 991px) {
     /* Home Page */
     .container .jumbotron {
-      background: url('../images/jumbotron_768.jpg') no-repeat;
+      background: url('https://raw.githubusercontent.com/kvmallik/assignment-5/main/IMAGES/jumbotron_768.jpg') no-repeat;
       height: 432px;
     }
     /* End Home Page */
