@@ -153,7 +153,8 @@
     box-shadow: 0 1px 5px 1px #cccccc;
   }
   #menu-tile {
-    background: url('../images/menu-tile.jpg') no-repeat;
+    background: url('![menu-tile](https://user-images.githubusercontent.com/107862323/176651773-78c0b01a-92e6-400a-aee4-306d6e5395ee.jpg)
+') no-repeat;
     background-position: center;
   }
   #specials-tile {
@@ -409,7 +410,8 @@
                 <div class="navbar-brand">
                     <a href="index.html"><h1>David Chu's China Bistro</h1></a>
                     <p>
-                      <img src="images/star-k-logo.png" alt="Kosher certification">
+                      <img src="![star-k-logo](https://user-images.githubusercontent.com/107862323/176652051-3f577ab8-43c4-43ee-81a5-3d88c177b469.png)
+" alt="Kosher certification">
                       <span>Kosher Certified</span>
                     </p>
                 </div>
@@ -462,7 +464,8 @@
   
     <div id="main-content" class="container">
       <div class="jumbotron">
-        <img src="D:\IMAGES\jumbotron_768.jpg" alt="picture of restarunt" class="img-responsive visible-xs">
+        <img src="![jumbotron_768](https://user-images.githubusercontent.com/107862323/176652260-df27fe87-e875-4224-887c-cafbdae952b5.jpg)
+" alt="picture of restarunt" class="img-responsive visible-xs">
       </div>
         <div id="home-tiles" class="row">
           <div class="col-md-4 col-sm-6 col-xs-12">
