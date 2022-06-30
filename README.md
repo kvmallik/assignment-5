@@ -33,7 +33,8 @@
   }
   
   #logo-img {
-    background: url('../images/restaurant-logo_large.png') no-repeat;
+    background: url('(https://user-images.githubusercontent.com/107862323/176650345-4b9beddc-1f33-4dcb-b952-5912c6004aad.png)
+') no-repeat;
     width: 150px;
     height: 150px;
     margin: 10px 15px 10px 0;
@@ -156,7 +157,8 @@
     background-position: center;
   }
   #specials-tile {
-    background: url('../images/specials-tile.jpg') no-repeat;
+    background: url('(https://user-images.githubusercontent.com/107862323/176649920-23b187d5-29e7-4326-a2c1-dbc6cfcbe58f.jpg)
+') no-repeat;
     background-position: center;
   }
   #menu-tile span, #specials-tile span, #map-tile span {
@@ -253,7 +255,8 @@
   /********** Large devices only **********/
   @media (min-width: 1200px) {
     .container .jumbotron {
-      background: url('../images/jumbotron_1200.jpg') no-repeat;
+      background: url('(https://user-images.githubusercontent.com/107862323/176649362-a491aa3b-da25-4f24-b79a-f9c9bc2f0580.jpg)
+') no-repeat;
       height: 675px;
     }
   }
@@ -262,7 +265,8 @@
   @media (min-width: 992px) and (max-width: 1199px) {
     /* Header */
     #logo-img {
-      background: url('../images/restaurant-logo_medium.png') no-repeat;
+      background: url('(https://user-images.githubusercontent.com/107862323/176649630-9aad3ee7-fe14-4fb3-b4a1-d76bd63800d0.png)
+') no-repeat;
       width: 100px;
       height: 100px;
       margin: 5px 5px 5px 0;
@@ -271,7 +275,8 @@
   
     /* Home Page */
     .container .jumbotron {
-      background: url('../images/jumbotron_992.jpg') no-repeat;
+      background: url('(https://user-images.githubusercontent.com/107862323/176648342-743e7a4a-8b42-45ae-8882-e63feb7a72a0.jpg)
+') no-repeat;
       height: 558px;
     }
     /* End Home Page */
@@ -281,7 +286,7 @@
   @media (min-width: 768px) and (max-width: 991px) {
     /* Home Page */
     .container .jumbotron {
-      background: url('https://raw.githubusercontent.com/kvmallik/assignment-5/main/IMAGES/jumbotron_768.jpg') no-repeat;
+      background: url('(https://raw.githubusercontent.com/kvmallik/assignment-5/main/IMAGES/jumbotron_768.jpg') no-repeat;
       height: 432px;
     }
     /* End Home Page */
