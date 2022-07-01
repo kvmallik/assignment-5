@@ -396,6 +396,9 @@
       width: 100%;
     }
   }
+      .visible-lg, .visible-md, .visible-sm, .visible-xs {
+    display: none!important;
+}
   </style>
 </head>
 <body>
